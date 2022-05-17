@@ -1,4 +1,4 @@
-# Biomedical-Image-and-Signal-Processing Content
+# Biomedical-Image-and-Signal-Processing
 
  - [spatial domain processing](https://github.com/Thomas-JHR/Biomedical-Image-and-Signal-Processing/tree/main/Spatial%20Domain%20Processing)
  
